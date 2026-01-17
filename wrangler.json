@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "chat-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "7a98a364-95e3-4878-9bcd-894797a774b1",
+			"database_name": "chat-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
